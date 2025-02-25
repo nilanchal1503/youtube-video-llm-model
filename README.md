@@ -1,4 +1,4 @@
-#Features
+## Features
 
 RAG Model Implementation: Combines retrieval-based and generative AI techniques for precise and contextual responses.
 
@@ -12,7 +12,7 @@ Streamlit User Interface: Provides an intuitive and seamless UI for users to int
 
 
 
-#Tech Stack
+# Tech Stack
 
 Google Gemini AI
 
@@ -27,7 +27,7 @@ Streamlit
 Python
 
 
-#How It Works
+# How It Works
 
 Transcript Processing: Extracts and pre-processes YouTube video transcripts.
 
@@ -40,10 +40,10 @@ RAG Model Execution: Retrieves relevant transcript chunks and generates intellig
 User Interaction via Streamlit: Allows users to input queries and receive dynamic responses in real-time.
 
 
-#Install dependencies:
+### Install dependencies:
 pip install -r requirements.txt
 
-#Run the Streamlit interface:
+# Run the Streamlit interface:
 streamlit run app.py
 
 
