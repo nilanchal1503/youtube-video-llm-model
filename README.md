@@ -1,4 +1,4 @@
-## Features
+# Features
 
 RAG Model Implementation: Combines retrieval-based and generative AI techniques for precise and contextual responses.
 
@@ -40,7 +40,7 @@ RAG Model Execution: Retrieves relevant transcript chunks and generates intellig
 User Interaction via Streamlit: Allows users to input queries and receive dynamic responses in real-time.
 
 
-### Install dependencies:
+# Install dependencies:
 pip install -r requirements.txt
 
 # Run the Streamlit interface:
